@@ -1,4 +1,4 @@
-Hi there, I'm Carol Roos (she/her)  👋 
+Hi there, I'm Carol (she/her)  👋 
 
 Solutions Consulting, passionate about technology and aspiring back-end developer
 Currently learning Python
