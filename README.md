@@ -6,8 +6,8 @@ Solutions Consulting, passionate about technology and aspiring back-end develope
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rooscarolina) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/carolroos) 
 
 
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Open Source
+- 🌱 I’m currently studing CS50’s Web Programming with Python and JavaScript
+- 👯 I’m looking to collaborate and learn more about tec
 - 😄 Fun facts: I'm a huge Friends Fan and love my Dog
 
 
