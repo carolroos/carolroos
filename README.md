@@ -1,13 +1,13 @@
 
 
 ### Hi there I'm Carol (she/her) 👋
-BI Analyst, passionate about technology and aspiring  developer.<br>
+BI Developer, passionate about technology.Learning about Data Science and Python.<br>
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rooscarolina) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/carolroos) 
 
 
 - 🌱 I’m currently studing Python
-- 👯 I’m looking to collaborate and learn more about tec
+- 👯 I’m looking to learn more about technology, python the most :)
 - 😄 Fun facts: I'm a huge Friends Fan and love my Dog
 
 
